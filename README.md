@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tommy7777-hue" alt="tommy7777-hue" /></a> </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tommy7777-hue&theme=aura_dark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/WDKjKAEH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WDKjKAEH" height="30" width="40" /></a>
